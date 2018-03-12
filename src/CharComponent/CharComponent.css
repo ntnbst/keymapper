@@ -1,0 +1,16 @@
+p {
+    display: inline-block;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    /* border: 1px solid black; */
+    box-shadow: 2px 2px 2px 4px #ccc;
+}
+
+.keyMap {
+    margin-top: 100px;
+}
+
+p:hover {
+    transform: scale(1.5);
+}
